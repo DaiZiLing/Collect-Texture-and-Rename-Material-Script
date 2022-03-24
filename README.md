@@ -16,7 +16,7 @@
 
 ![image](https://github.com/DaiZiLing/Collect-Texture-and-Rename-Material-Script/blob/main/Images/0324_1.gif)
 
-![image](https://github.com/DaiZiLing/Collect-Texture-and-Rename-Material-Script/blob/main/Images/0324_3.png)
+![image](https://github.com/DaiZiLing/Collect-Texture-and-Rename-Material-Script/blob/main/Images/0324_5.png)
 
 那么该如何使用呢？1、先点 “前处理” ；2、再点 “整理视口内贴图” 或者 “整理整个场景贴图” 就行啦 ~ 
 
